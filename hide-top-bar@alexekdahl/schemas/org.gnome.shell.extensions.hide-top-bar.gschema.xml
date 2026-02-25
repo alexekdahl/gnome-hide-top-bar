@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="hide-top-bar@alexekdahl">
+  <schema id="org.gnome.shell.extensions.hide-top-bar"
+          path="/org/gnome/shell/extensions/hide-top-bar/">
+
+    <key name="hidden-workspaces" type="ai">
+      <default>[]</default>
+      <summary>Hidden workspaces</summary>
+      <description>List of workspace indices where the top bar should be hidden</description>
+    </key>
+
+    <key name="hide-on-all" type="b">
+      <default>false</default>
+      <summary>Hide on all workspaces</summary>
+      <description>Hide the top bar on all workspaces</description>
+    </key>
+
+  </schema>
+</schemalist>

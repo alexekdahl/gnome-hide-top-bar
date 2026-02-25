@@ -1,0 +1,8 @@
+{
+  "name": "Hide Top Bar",
+  "description": "Hide the top panel bar with per-workspace configuration",
+  "uuid": "hide-top-bar@alexekdahl",
+  "shell-version": ["46"],
+  "settings-schema": "org.gnome.shell.extensions.hide-top-bar",
+  "url": ""
+}
